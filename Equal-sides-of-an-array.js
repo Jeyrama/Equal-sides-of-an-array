@@ -38,3 +38,6 @@ then you will return -1.
 Note:
 If you are given an array with multiple answers, return the lowest correct index.
 /*
+
+
+// Solution
